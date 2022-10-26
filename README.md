@@ -1,6 +1,4 @@
-# Heading
-
-## Basics
+# Basics
 
 `<img src="link/image.png" alt="alternative text">`
 
@@ -10,7 +8,7 @@
 
 
 
-## Tags
+# Tags
 
 - `<main>` - opening tag
 - `</main>` - closing tag
@@ -18,29 +16,39 @@
 A tag for an element without a closing tab is called a self-closing tag:
 - `<img>`
 
-## Attributes
+# Attributes
 
 HTML attributes are special words used inside the opening tag of an element to control the element's behavior.
 
+# Elements
 
-## Elements
+## Text
 
-### Text
+- `<h1>`
+- `<p>` - paragraph; 
+- `<main>` 
+- `<section>`
 
-`<h1>`
-`<p>` - paragraph; 
-`<main>` 
-
-### Anchor `<a>`
+## Anchor `<a>`
 `<a>` - "anchor"; links to other pages. 
 
 `<a href="https://freecatphotoapp.com" target=_blank>text of the link</a>`
 
 Attributes:
-- `target` - open link in a new tab; 
+- `target=_blank` - open link in a new tab; 
 - 
 
+## `<img>`
 `<img src="link/image.png" alt="Alt text">`
 
 attributes: alt - text that is displayed if the image fails to load. 
 
+## Unordered list `<ul>`
+
+```html
+<ul>
+  <li>cat nip</li>
+  <li>laser pointers</li>
+  <li>lasagna</li>
+</ul>
+```
