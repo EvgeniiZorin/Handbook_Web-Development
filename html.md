@@ -106,4 +106,8 @@ label elements are used to help associate the text for an input element with the
 The fieldset element is used to group related inputs and labels together in a web form. 
 fieldset elements are block-level elements, meaning that they appear on a new line.
 
+## Div
+
+The div element is used mainly for design layout purposes unlike the other content elements you have used so far.
+
 
