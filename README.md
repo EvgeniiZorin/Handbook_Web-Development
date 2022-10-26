@@ -2,13 +2,13 @@
 
 ## Basics
 
-`<img src="link/image.png">`
+`<img src="link/image.png" alt="alternative text">`
 
 - `img` - element
-- `src` - attribute
+- `src`, `alt` - attributes
 - `<img>` - tag
 
-<img>
+
 
 ## Tags
 
@@ -28,3 +28,13 @@ HTML attributes are special words used inside the opening tag of an element to c
 `<h1>`
 `<p>` - paragraph; 
 `<main>` 
+
+`<a>` - "anchor"; links to other pages. 
+
+`<a href="https://freecatphotoapp.com">text of the link</a>`
+
+
+`<img src="link/image.png" alt="Alt text">`
+
+attributes: alt - text that is displayed if the image fails to load. 
+
