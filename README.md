@@ -25,14 +25,20 @@ HTML attributes are special words used inside the opening tag of an element to c
 
 ## Elements
 
+### Text
+
 `<h1>`
 `<p>` - paragraph; 
 `<main>` 
 
+### Anchor `<a>`
 `<a>` - "anchor"; links to other pages. 
 
-`<a href="https://freecatphotoapp.com">text of the link</a>`
+`<a href="https://freecatphotoapp.com" target=_blank>text of the link</a>`
 
+Attributes:
+- `target` - open link in a new tab; 
+- 
 
 `<img src="link/image.png" alt="Alt text">`
 
