@@ -38,7 +38,7 @@ Attributes:
 - `target=_blank` - open link in a new tab; 
 - 
 
-## `<img>`
+## Image `<img>`
 `<img src="link/image.png" alt="Alt text">`
 
 attributes: alt - text that is displayed if the image fails to load. 
