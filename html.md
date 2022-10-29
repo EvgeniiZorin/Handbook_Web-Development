@@ -22,6 +22,8 @@ HTML attributes are special words used inside the opening tag of an element to c
 
 # Elements
 
+`<element attribute1 attribute2></element>`
+
 ## Text
 
 - `<h1>`
