@@ -1,3 +1,5 @@
+The CSS box model:
+- Margin: the area outside of the box; 
 
 `margin: auto` - center the piece vertically; 
 
