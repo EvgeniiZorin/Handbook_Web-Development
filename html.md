@@ -31,6 +31,11 @@ HTML attributes are special words used inside the opening tag of an element to c
 - `<main>` 
 - `<section>`
 
+Center text (works in any Markdown): 
+```html
+<h2><p style="text-align: center;">Here goes the centered heading!</p></h2>
+```
+
 ## Emphasis `<em>`
 
 ## Strong `<strong>`
